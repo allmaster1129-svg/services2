@@ -18,13 +18,13 @@
     "@supabase/ssr": "^0.12.3",
     "@supabase/supabase-js": "^2.110.9",
     "drizzle-orm": "0.45.2",
-    "next": "16.2.12",
+    "next": "16.3.4",
     "react": "19.2.8",
     "react-dom": "19.2.8",
     "react-loading-skeleton": "3.5.0"
   },
   "devDependencies": {
-    "@cloudflare/vite-plugin": "1.50.0",
+    "@cloudflare/vite-plugin": "1.54.7",
     "@tailwindcss/postcss": "4.2.1",
     "@types/node": "22.19.19",
     "@types/react": "19.2.14",
@@ -39,7 +39,7 @@
     "typescript": "5.9.3",
     "vinext": "0.0.50",
     "vite": "8.2.0",
-    "wrangler": "4.118.0"
+    "wrangler": "4.131.0"
   },
   "type": "module"
 }
